@@ -388,7 +388,7 @@ textarea {
     }
 }
 
-@media(max-width: 430px){
+@media(max-width: 432px){
 
     .hero img{
         position: relative;
