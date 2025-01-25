@@ -248,7 +248,7 @@ form { max-width:350px; margin:50px auto; }
   outline:0;
 }
 
-.feedback-input:focus { border:2px solid #2edfdf; }
+.feedback-input:focus { border:3px solid #1723c7; }
 
 textarea {
   height: 150px;
