@@ -397,6 +397,28 @@ textarea {
         
     }
 
+    .hero .card-container {
+        width: 300px;
+        text-align: center;
+
+    }
+
+    .hero .p1{
+        
+        text-align: center;
+    }
+
+    .hero .card-header {
+        text-align: center;
+        padding-right: 57px;
+    }
+
+    .hero .card-text {
+        width: 200px;
+        text-align: center;
+        padding-right: 26px;
+    }
+
    
 
     .footer {
