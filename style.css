@@ -18,6 +18,11 @@
     
 }
 
+.icon{
+    position: relative;
+    top:5px;
+}
+
 .logo-container{
     padding: 1.25rem 1.563rem;
     color:#39a9f3;
